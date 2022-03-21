@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to mygithub pages
 
 You can use the [editor on GitHub](https://github.com/msbAtGit/myself/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,16 +11,15 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-Bharathwaj - A Software Developer with a teaching head and a guitaring hand. 
-## Header 2
+# Bharathwaj
+## A software developer with head of a teacher and heart of a musician............
 ### Header 3
 
 - Bulleted
 - List
 
-1. Numbered
-2. List
+1. [Desktop JavaScript Sprite](https://msbatgit.github.io/jackie-game/)
+2. [A game of tic tac toe on React JS]()
 
 **Bold** and _Italic_ and `Code` text
 
